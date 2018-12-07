@@ -3,7 +3,7 @@
 <suite name="Booking search">
     <test name="Booking search" group-by-instances="true">
         <classes>
-            <class name="searchTest"/>
+            <class name="SearchTest"/>
         </classes>
     </test>
 </suite>
